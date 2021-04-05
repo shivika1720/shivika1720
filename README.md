@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on any Java project or graphic desinging projects.
 - 💬 Ask me about DevOps. 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love hot ice creams.
+- ⚡ Fun fact: I love hot ice creams:)
