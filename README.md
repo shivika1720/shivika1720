@@ -1,4 +1,3 @@
-### Heya! 👋
 
    Hello there, I'm Shivika Kejriwal, a computer science undergraduate at UPES in Dehradun.
 - 🌱 I’m currently learning Java, Python and Build Management. 
