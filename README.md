@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on any Java project or DevOps projects.
 - 💬 Ask me about DevOps. 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ummm
+- ⚡ Fun fact: umm
